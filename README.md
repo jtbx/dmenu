@@ -6,7 +6,10 @@ dmenu is an efficient dynamic menu for X.
 # Requirements
 
 In order to build dmenu you need the Xlib header files.
-You can usually install them with X.
+
+My config also requires the Hack font.
+
+On Arch Linux, you can install that package with `sudo pacman -S ttf-hack`.
 
 # Installation
 
