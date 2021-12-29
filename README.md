@@ -2,6 +2,7 @@
 
 dmenu is an efficient dynamic menu for X.
 
+**Note: I have stopped development on this fork. I may continue it sometime, but for now, it's archived.**
 
 # Requirements
 
