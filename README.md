@@ -2,7 +2,9 @@
 
 dmenu is an efficient dynamic menu for X.
 
-**Note: I have stopped development on this fork. I may continue it sometime, but for now, it's archived.**
+**Note: I have stopped development on this fork for now in favour of Rofi. I may continue it sometime.**
+
+My rofi config: [jtbx/dotfiles/.config/rofi/config.rasi](https://github.com/jtbx/dotfiles/blob/main/.config/rofi/config.rasi)
 
 # Requirements
 
