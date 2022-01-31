@@ -2,10 +2,6 @@
 
 dmenu is an efficient dynamic menu for X.
 
-**Note: I have stopped development on this fork for now in favour of Rofi. I may continue it sometime.**
-
-My rofi config: [jtbx/dotfiles/.config/rofi/config.rasi](https://github.com/jtbx/dotfiles/blob/main/.config/rofi/config.rasi)
-
 # Requirements
 
 In order to build dmenu you need the Xlib header files.
